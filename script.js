@@ -1,6 +1,6 @@
 (function(){
 
-  const desiredDate = "mar 10 2024"
+  const desiredDate = "feb 28 2025"
   const ramadanDate = new Date(desiredDate)
   const currentDate = new Date();
   const totalSeconds = (ramadanDate - currentDate) / 1000;
